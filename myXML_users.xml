@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	
+	<USER>
+		<NAME>ADRIANNA CHANG</NAME>
+		<IMAGE>UserImages/blossom_flower.jpg</IMAGE>
+	</USER>
+	
+	<USER>
+		<NAME>BEN CHANG</NAME>
+		<IMAGE>UserImages/Video_games.jpg</IMAGE>
+	</USER>
+
+	<USER>
+		<NAME>JAMES CHANG</NAME>
+		<IMAGE>UserImages/t-rex8.jpg</IMAGE>
+	</USER>
+
+</users>
